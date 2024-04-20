@@ -38,9 +38,5 @@ sm{
  t{Initial; default;};
  t{default; caps_locked; CAPS_LOCK;};
  t{caps_locked; default; CAPS_LOCK;};
- t{default;Final;ANY_KEY;g;};
- t{caps_locked;Final;ANY_KEY;g;};
- t{default; default; ANY_KEY;not_g; send_lower_case_scan_code;};
- t{caps_locked; caps_locked; ANY_KEY;not_g; send_upper_case_scan_code;};
 };
 
